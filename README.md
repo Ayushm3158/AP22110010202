@@ -63,8 +63,9 @@ The frontend will run at: **http://localhost:3000**
 ## 📸 Screenshots
 Add images using:
 ```md
-![Dashboard](screenshots/response1.jpg)
-![Dashboard](screenshots/response2.jpg)
+![body](./screenshots/body.jpg)
+![body](./screenshots/response1.jpg)
+![body](./screenshots/response2.jpg)
 ```
 Make sure to store the images in a `screenshots/`.
 
