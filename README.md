@@ -59,17 +59,11 @@ npm run dev   # Start the frontend server
 The frontend will run at: **http://localhost:3000**
 
 ---
-![body](Screenshots/body.jpg)
-![body](./screenshots/response1.jpg)
-![body](./screenshots/response2.jpg)
 ## 📸 Screenshots
-Add images using:
-```md
-![body](Screenshots/body.jpg)
+![body](./screenshots/body.jpg)
 ![body](./screenshots/response1.jpg)
 ![body](./screenshots/response2.jpg)
-```
-Make sure to store the images in a `screenshots/`.
+
 
 ---
 
