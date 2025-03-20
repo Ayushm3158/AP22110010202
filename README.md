@@ -63,7 +63,7 @@ The frontend will run at: **http://localhost:3000**
 ## 📸 Screenshots
 Add images using:
 ```md
-![body](screenshots/body.jpg)
+![body](Screenshots/body.jpg)
 ![body](./screenshots/response1.jpg)
 ![body](./screenshots/response2.jpg)
 ```
